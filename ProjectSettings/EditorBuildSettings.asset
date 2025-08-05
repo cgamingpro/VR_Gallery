@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/SCENES 1/MAinn.unity
+    guid: bb516f81fa93e204f85321f8ca9b0080
+  - enabled: 0
+    path: Assets/SCENES 1/gaklerey.unity
+    guid: 6ce285d4585d4eb429cd10ae6c6a2a77
+  - enabled: 0
+    path: Assets/gallery/scenes/gallery.unity
+    guid: eb5df1d8cf98ad5438d4ad205806f2ab
+  - enabled: 1
+    path: Assets/SCENEMOX/mainMenu.unity
+    guid: 11579b1442c0e2648900adcea1c39a14
+  - enabled: 1
+    path: Assets/fbx/fbxttry.unity
+    guid: c22b932a5a993a340bf128c29f31d12e
+  - enabled: 0
+    path: Assets/GoogleVR/Demos/Scenes/HelloVR.unity
+    guid: bb36d2905dc634f1c9eecb35beecaca8
+  - enabled: 0
+    path: Assets/fbx/try22/sih.unity
+    guid: 0f9c7a479aa69a242a3e7da3291cf657
+  m_configObjects: {}
